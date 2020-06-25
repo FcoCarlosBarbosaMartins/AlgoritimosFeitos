@@ -1,0 +1,25 @@
+
+Var
+// Seção de Declarações das variáveis 
+n1, n2, n3, n4, soma : inteiro
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva("Dgigite o Primeiro Numero: ")
+leia(n1)
+
+escreva("Dgigite o Segundo Numero: ")
+leia(n2)
+
+escreva("Dgigite o Terceiro Numero: ")
+leia(n3)
+
+escreva("Dgigite o Quatro Numero: ")
+leia(n4)
+
+soma<-n1+n2+n3+n4
+
+escreva(soma)
+
+Fimalgoritmo
